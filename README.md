@@ -91,6 +91,15 @@ File ``README.md`` berhasil dibuat.
 
   ![git remote](https://user-images.githubusercontent.com/56913656/68066035-52401880-fd64-11e9-8167-11a8798e18b1.png)
   
+# Melihat hasilnya pada server repository
+* Buka laman ``github.com``,arahkan pada repositori- nya.
+* Maka perubahan akan terlihat pada laman tersebut.
+
+  ![hasilrepository](https://user-images.githubusercontent.com/56913656/68066201-7b61a880-fd66-11e9-903a-9de68232377f.png)
+  
+**FINISH**............................
+
+  
   
 
 
